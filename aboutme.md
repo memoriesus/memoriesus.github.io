@@ -10,7 +10,7 @@ My name is Zhao Xinqiang. I have the following qualities:
 
 
 
-- I am a software enginner from China.
+- I am a software engineer from China.
 - Now living in Shenzhen city.
 - My technology stack is mobile development(iOS) and Web development.As a web developer I love Python and Ruby to do more funny cases.
 - I have extensive experience in automated testing and software development.
