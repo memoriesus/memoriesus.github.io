@@ -28,6 +28,9 @@ From Xcode11.3 to 11.4 it's nearly two more months, I truly hope it's stable.
 And then here I made a decision about programming language.I love Ruby since 2011.
 
 **As a software test engineer I use Ruby as my first choice to write scripts to do repeated tasks in daily work.**
+
+Thank for ![Yukihiro Matsumoto‘s book](https://user-images.githubusercontent.com/57557632/77637216-4b72a600-6f90-11ea-99ba-fc87ff2ac324.JPG)
+
 And during following chapter I paused to use it in my daily work.
 For me programming languages are only tools to solve special issues occuring in our lifetime. Ruby is great, but it cannot
 solve my issues absolutely, I don't want to keep more tech stacks to jump for AI project.
