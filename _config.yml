@@ -4,7 +4,7 @@
 title: Marc Zhao
 
 # Short description of your site
-description: Software engineer from China, now living in Shenzhen
+description: Software engineer 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -101,7 +101,7 @@ timezone: "China/Beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
