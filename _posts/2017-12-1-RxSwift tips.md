@@ -3,6 +3,7 @@ layout: post
 title: RxSwift tips
 subtitle: use RxSwift better in your project to avoid common mistakes
 tags: [iOS Programming, best practices,RxSwift]
+read-time: true
 comment: true
 ---
 
