@@ -94,7 +94,7 @@ title-separator: "-"
 # Ruby Date Format
 date_format: "%B %-d, %Y"
 
-read-time: true
+
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -118,6 +118,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
+      readtime:true
   -
     scope:
       path: "" # all files
