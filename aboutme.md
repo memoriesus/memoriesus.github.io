@@ -13,14 +13,14 @@ My name is Zhao Xinqiang. I have the following qualities:
 - I am a software engineer from China.
 - Now living in Shenzhen city.
 - My technology stack is mobile development(iOS) and Web development.As a web developer I love Python and Ruby to do more funny cases.
-- I have extensive experience in automated testing and software development.
+- I have extensive experience in automated testing(Five years) and software development.
 - I like writing and photography in my spare time.
 
 What else do you need?
 
 ### my history
 
-To be honest, I started to write code in 2011 as An automated test engineer using Ruby.And then in 2014 I started  my new chapter to be a  developer. 
+To be honest, I started to write code in 2009 as An automated test engineer using Ruby.And then in 2014 I started  my new chapter to be a  developer. 
 > **Never pause to try, or how to find the best solution.**
 
 
