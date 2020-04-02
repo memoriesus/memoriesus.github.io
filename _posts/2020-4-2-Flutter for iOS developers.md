@@ -1,6 +1,7 @@
 ---
 post: page
 title: Flutter for iOS developer
+subtitle: understand the difference between Flutter and native development
 tags: [Flutter,iOS]
 comment: true 
 ---
