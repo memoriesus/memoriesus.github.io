@@ -39,3 +39,16 @@ In iOS, you can use "CoreGraphics" to draw on the screen. Flutter has something 
 ## How to manage the dependencies
 The pubspec file uses Dart's Pub package manager to declare and fetch dependencies.
 
+## HOW DO I INTERACT WITH THE DEVICE AND USE NATIVE APIS?
+Perhaps the biggest difference between native mobile development and Flutter development is that Flutter doesn’t have direct access to the devices underlying SDK. Your Flutter app actually is hosted in a ViewController on iOS, but you can’t communicate with it directly.
+
+Flutter solved this problem by creating "platform channels", which can communicate with the ViewController. According to the docs, “Platform channels are essentially an asynchronous messaging mechanism that bridge the Dart code with the host ViewController and the iOS framework it runs on. You can use platform channels to execute a method on the native side, or to retrieve some data from the device’s sensors, for example.
+
+Most platform channel work would be included in your app as a plugin that encapsulates the native and Dart code and exposes the Dart api. You can write your own plugins to do this, which basically consists of writing the iOS native code, because the Dart code is generally quite simple.
+
+This isn’t so necessary, though, because there are already a ton of plugins provided by the Pub package manager that communicate with native APIS.
+for instance :
+* image_picker to access the camera
+* geolocator to access the GPS sensor
+
+ 
