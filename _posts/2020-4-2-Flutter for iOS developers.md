@@ -1,10 +1,9 @@
 ---
 post: page
 title: Flutter for iOS developer
-tags:[Flutter]
+tags: [Flutter,iOS]
 comment: true 
 ---
-
 ## WHAT ARE THE EQUIVALENT TO UIVIEW IN FLUTTER?
 In iOS, you create your UI with view objects that are instances of UIView. In Flutter, everything is a widget, and that’s the closest comparison to a UIView. They aren’t exactly the same,
 
