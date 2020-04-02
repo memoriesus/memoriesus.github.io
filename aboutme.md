@@ -26,7 +26,6 @@ I started to write code after graduation as An automated test engineer using Rub
 I start to craft iOS Apps since 2011. And heavilly involed in the development of many modern apps. 
 
 ~~Some dead: e会诊医生端 | 宠e时代 | 前链财经 | 土狗优享 | i喜来 | i快收 |秦医通 | 铜川百姓健康 | 西京互联网医院患者端 | 健康陕西医生版 | MealSavvy~~. 
-
 Some alive: [健康陕西-面向百姓的健康信息服务](https://apps.apple.com/cn/app/健康陕西-面向百姓的健康信息服务/id1238586917) | [veryFitPro](https://apps.apple.com/us/app/veryfitpro/id1176428281)
 
 I started to write web since 2016. 
