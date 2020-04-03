@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 2020-4-3-Flutter for Android developer.md
+title: 2020-4-3-Flutter for Android developer
 date: '2020-04-03'
 subtitle: Understand the difference between Flutter and Android
 ---
