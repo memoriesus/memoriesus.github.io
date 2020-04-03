@@ -36,3 +36,7 @@ For me programming languages are only tools to solve special issues occuring in 
 solve my issues absolutely, I don't want to keep more tech stacks to jump for AI project.
 Python is great, I hope in someday Django can add some great features from Rails. 
 
+## Solutions
+![](https://user-images.githubusercontent.com/57557632/78371408-844af480-75fa-11ea-94a0-8938db3bffe0.png)
+Set building setting and then add **arm64** into the valid architecture
+
