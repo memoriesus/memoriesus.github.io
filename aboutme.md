@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to communicate with me
 ---
 
-![](https://user-images.githubusercontent.com/57557632/78319404-b11aef80-7599-11ea-98fa-303384c57008.png)
+
 
 My name is Zhao Xinqiang. I have the following qualities:
 
