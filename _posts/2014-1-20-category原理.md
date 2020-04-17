@@ -1,5 +1,5 @@
 ---
-post:page
+post: page
 title: Category原理
 tags: [iOS,interview]
 comment: true
