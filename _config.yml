@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Marc Zhao
+title: Marc Steven
 
 # Short description of your site
 description: Software engineer 
@@ -52,7 +52,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "marczhao@memoriesus.com"
+  email: "marcsteven@memoriesus.com"
   github: MarcSteven
   
 
