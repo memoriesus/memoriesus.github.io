@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to communicate with me
+subtitle: Software engineer from China, now learning ML.
 ---
 
 
