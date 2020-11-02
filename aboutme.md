@@ -1,14 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Software engineer from China, now learning ML.
+subtitle: Software engineer from China, now learning Machine Learning.
 ---
 
 
 ![IMG_8706](https://user-images.githubusercontent.com/57557632/80059237-13925a80-855e-11ea-9df9-0b3a9f77efb8.JPG)
 
-My name is Zhao Xinqiang. I have the following qualities:
+> **Never pause to try, or how to find the best solution.**
 
+> **Life is unknown, but don't give up yourself whatever you are facing.**
+> -**Marc Steven**
+
+My name is Zhao Xinqiang.I called myself 'Marc Steven'.
+You can call me 'Marc' directly.
+I have the following qualities:
 
 
 - I am a software engineer from China.
@@ -26,8 +32,6 @@ What else do you need?
 ​At the spare time I always like to write articles not only technology but also life, you can read it via medium-[Marc Steven's Medium](https://medium.com/@MarcStevenCoder) and my official accounts as below:
 
 ![IMG_9972](https://user-images.githubusercontent.com/57557632/97832023-b5181700-1d0c-11eb-9b7a-23c141c1c7bf.JPG)
-
-
 
 If you also want to make friend with me or need software development, don't be shy, send email -**marcsteven@memoriesus.com**
 
