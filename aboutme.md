@@ -23,6 +23,11 @@ What else do you need?
 * website development
 * UI design
 
+​At the spare time I always like to write articles not only technology but also life, you can read it via medium-[Marc Steven's Medium](https://medium.com/@MarcStevenCoder) and my official accounts as below:
+
+![IMG_9972](https://user-images.githubusercontent.com/57557632/97832023-b5181700-1d0c-11eb-9b7a-23c141c1c7bf.JPG)
+
+
 
 If you also want to make friend with me or need software development, don't be shy, send email -**marcsteven@memoriesus.com**
 
