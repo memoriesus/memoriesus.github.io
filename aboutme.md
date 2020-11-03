@@ -20,7 +20,7 @@ I have the following qualities:
 - I am a software engineer from China.
 - Now living in Shenzhen city.
 - My technology stack is mobile development(iOS) and Web development.As a web developer I love Python and Ruby to do more funny cases.
-- I have extensive experience in automated testing(Five years) and software development.
+- I have extensive experience in automated testing(ten years) and software development(Six years+).
 - I like writing and photography in my spare time.
 
 What else do you need?
