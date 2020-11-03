@@ -37,10 +37,4 @@ If you also want to make friend with me or need software development, don't be s
 
 
 
-> **Never pause to try, or how to find the best solution.**
-
-> **Life is unknown, but don't give up yourself whatever you are facing.**
-> -**Marc Steven**
-
-
-Thank for your reading, what's your story? Tell me!!
+**Thank for your reading, what's your story? Tell me!!**
